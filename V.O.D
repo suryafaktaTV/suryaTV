@@ -1,5 +1,6 @@
 ############################################### serial #######################################
 
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E01
 https://nonton.site:8443/series/Akhbar/Fadilah/16818.mkv
 #EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E02
